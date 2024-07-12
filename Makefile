@@ -1,0 +1,2 @@
+run:
+	img/start.sh
